@@ -1,14 +1,15 @@
-🚗 Completed Car Catalog System Project in ServiceNow
-Configured user and group management for secure, role-based access
+🚗 Completed Car Catalog System Project in ServiceNow.
 
-Developed custom tables to manage car catalog entries and user requests
+Configured user and group management for secure, role-based access.
 
-Defined specific roles to control visibility and permissions across the platform
+Developed custom tables to manage car catalog entries and user requests.
 
-Designed automated workflows for request submission, approval, and fulfillment
+Defined specific roles to control visibility and permissions across the platform.
 
-Created an intuitive Service Portal for users to browse and request catalog items
+Designed automated workflows for request submission, approval, and fulfillment.
 
-Categorized car models by type for streamlined navigation and improved UX
+Created an intuitive Service Portal for users to browse and request catalog items.
+
+Categorized car models by type for streamlined navigation and improved UX.
 
 Included complete project files and technical documentation in the repository.
